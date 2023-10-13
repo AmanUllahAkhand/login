@@ -1,10 +1,10 @@
 # login And Signup Screen Design
 
-*Login Screen : 
-https://raw.githubusercontent.com/AmanUllahAkhand/login/master/ScreenShort/Login.JPEG
+*Login Screen :
+![Login Screen](https://raw.githubusercontent.com/AmanUllahAkhand/login/master/ScreenShort/Login.JPEG)
 
-*Signup Screen : 
-https://raw.githubusercontent.com/AmanUllahAkhand/login/master/ScreenShort/Signup.JPEG
+*Signup Screen :
+![Signup Screen](https://raw.githubusercontent.com/AmanUllahAkhand/login/master/ScreenShort/Signup.JPEG)
 
 
 
